@@ -5,3 +5,6 @@
 /target/
 /project/target/
 /project/project/
+/.cache-main
+/.cache-tests
+/.classpath
